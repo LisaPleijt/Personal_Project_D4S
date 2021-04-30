@@ -10,7 +10,8 @@ The goals were:
 * Goal 4: Create beautiful visualizations
 
 It contains the following notebooks:
-* API_Setups: The work I did for the group project containing both the Live stream API, Historic search API, and DataBase setup (Goals: 1)
+* API_Historic: The work I did for the group project containing Historic Search API, Historic search API, and DataBase setup (Goals: 1)
+* API_Live: The work I did for the group project containing the live API. 
 * Visualizations: Part of the work I did for the group project, plus added visualizations for my personal project (Goals: 3, 4)
 * Machine_Learning: Notebook containing the code for my second learning goal (Goals: 2) 
 * ..?
