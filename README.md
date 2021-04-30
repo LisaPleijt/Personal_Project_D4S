@@ -1,6 +1,6 @@
 # Personal Project Notebooks
 
-This repository contains the work done in the achievement of my personal learning goals for the DataScience for Society course.
+This repository contains the work done in the achievement of my personal learning goals for the Data Science for Society course at Wageningen University and Research.
 A complete overview of the initial learning goals can be found [here.](https://www.notion.so/Personal-Leaning-Plan-8bbef961fe5c45d1a7b7994a76c23226)
 
 The goals were:
