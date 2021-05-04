@@ -12,9 +12,7 @@ The goals were:
 It contains the following notebooks:
 * API_Historic: The work I did for the group project containing Historic Search API, Historic search API, and DataBase setup (Goals: 1)
 * API_Live: The work I did for the group project containing the live API. 
-* Visualizations: Part of the work I did for the group project, plus added visualizations for my personal project (Goals: 3, 4)
-* Machine_Learning: Notebook containing the code for my second learning goal (Goals: 2) 
-* ..?
+* Machine_Learning_Visualizations: Part of the work I did for the group project, plus added visualizations for my personal project (Goals: 2, 3, 4)
 
 
 This GitHub repository is complementary to a storymap, which contains an overview of the process in story format and more visualzations. The StoryMap can be found  [here.](https://storymaps.arcgis.com/stories/46d537404e6b4ef48dc9b259e155814c)
